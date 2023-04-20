@@ -1,0 +1,37 @@
+.header{
+background-color:#ffab91;
+}
+.-header{
+    background-color:#d2c5ea
+}
+.--header{
+    background-color: #ffe0b2;
+}
+.---header{
+    background-color: #ffcc82;
+}
+.----header{
+
+    background-color: #ffcdd3;
+}
+.-header-{
+    background-color: #a6d6a8;
+}
+.--header-{
+    background-color: #e7ed9b;
+}
+.---header-{
+    background-color: #b2e5fb;
+}
+.-heading{
+    background-color: #b2e5fb;
+}
+.--heading{
+    background-color:#e7ed9b;
+}
+h1{
+    background-color: yellow;
+    margin-left: 0;
+    margin-right: 0;
+
+}
